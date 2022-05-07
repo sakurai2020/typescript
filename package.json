@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sakurai2020/typescript#readme",
   "devDependencies": {
+    "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   },
   "description": ""
